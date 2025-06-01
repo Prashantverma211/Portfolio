@@ -50,7 +50,6 @@ export const SkillsInfo = [
     title: "Backend",
     skills: [
       { name: "Node JS", logo: nodejsLogo },
-      { name: "Express JS", logo: expressjsLogo },
       { name: "MongoDB", logo: mongodbLogo },
       { name: "GraphQL", logo: GraphQLLogo },
       { name: "Nestjs", logo: NestjsLogo },
