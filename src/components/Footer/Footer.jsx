@@ -34,7 +34,7 @@ const Footer = () => {
 
         <div className="flex flex-wrap justify-center space-x-4 mt-6">
           {[
-            { icon: <FaFacebook />, link: "hhttps://www.facebook.com/share/16r2Z7R1qa/?mibextid=wwXIfr" },
+            { icon: <FaFacebook />, link: "https://www.facebook.com/share/16QQayoT9c/?mibextid=wwXIfr" },
             { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/prashant-verma-472186228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" },
             { icon: <FaInstagram />, link: "https://www.instagram.com/prashantvermax?igsh=OXJoZTNqMHQzeXBn&utm_source=qr" },
           ].map((item, index) => (
